@@ -1,5 +1,4 @@
 package javaapplication18;
-
 /**
  *
  * @author sunny
